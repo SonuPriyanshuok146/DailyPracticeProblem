@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    long long n;
+    cin >> n;
+
+    int count = 0;
+    while(n > 0) {
+        int q = n % 10;
+        if(q == 4 || q == 7) {
+            count++;
+        }
+        n /= 10;
+    }
+
+    if(count == 4 || count == 7) {
+        cout << "YES";
+    } else {
+        cout << "NO";
+    }
+
+    return 0;
+}
