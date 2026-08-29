@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TernaryCondition",
+      "request": "launch",
+      "mainClass": "TernaryCondition",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "IfMarks",
+      "request": "launch",
+      "mainClass": "IfMarks",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "IfCondition",
+      "request": "launch",
+      "mainClass": "IfCondition",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "BitwiseShift",
       "request": "launch",
       "mainClass": "BitwiseShift",
