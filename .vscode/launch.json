@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "ReverseStr",
       "request": "launch",
       "mainClass": "ReverseStr",
