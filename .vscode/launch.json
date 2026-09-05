@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseStr",
+      "request": "launch",
+      "mainClass": "ReverseStr",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "CountLetter",
+      "request": "launch",
+      "mainClass": "CountLetter",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "CountDigit",
+      "request": "launch",
+      "mainClass": "CountDigit",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "StringBuilderDemo",
       "request": "launch",
       "mainClass": "StringBuilderDemo",
