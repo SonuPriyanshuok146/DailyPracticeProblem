@@ -2,6 +2,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringBuilderDemo",
+      "request": "launch",
+      "mainClass": "StringBuilderDemo",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "ConversionSC",
+      "request": "launch",
+      "mainClass": "ConversionSC",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "Summation",
+      "request": "launch",
+      "mainClass": "Summation",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "TernaryCondition",
       "request": "launch",
       "mainClass": "TernaryCondition",
