@@ -2,6 +2,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "EvenSum",
+      "request": "launch",
+      "mainClass": "EvenSum",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrintinginPyramid",
+      "request": "launch",
+      "mainClass": "PatternPrintinginPyramid",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrintinginTriangleRi",
+      "request": "launch",
+      "mainClass": "PatternPrintinginTriangleRi",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrintinginTriangleAl",
+      "request": "launch",
+      "mainClass": "PatternPrintinginTriangleAl",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrintinginTriangleNum",
+      "request": "launch",
+      "mainClass": "PatternPrintinginTriangleNum",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrintinginTriangleO",
+      "request": "launch",
+      "mainClass": "PatternPrintinginTriangleO",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrintinginTriangle",
+      "request": "launch",
+      "mainClass": "PatternPrintinginTriangle",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "PatternPrinting",
+      "request": "launch",
+      "mainClass": "PatternPrinting",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "ForArr",
+      "request": "launch",
+      "mainClass": "ForArr",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "ForLoop",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "DoWhile",
+      "request": "launch",
+      "mainClass": "DoWhile",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "LoopW",
+      "request": "launch",
+      "mainClass": "LoopW",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "Palindrome",
       "request": "launch",
       "mainClass": "Palindrome",
