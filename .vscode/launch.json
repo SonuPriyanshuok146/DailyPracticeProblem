@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PalindromeNum",
+      "request": "launch",
+      "mainClass": "PalindromeNum",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "RevNums",
+      "request": "launch",
+      "mainClass": "RevNums",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "DigitNum",
       "request": "launch",
       "mainClass": "DigitNum",
