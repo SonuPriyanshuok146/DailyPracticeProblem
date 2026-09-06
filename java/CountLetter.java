@@ -12,6 +12,7 @@ class CountLetter{
             }
         }
         System.out.println("Letter in string: "+ count);
+        sc.close();
     }
 }
 

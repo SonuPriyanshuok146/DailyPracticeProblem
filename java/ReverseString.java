@@ -16,6 +16,7 @@ class ReverseStr{
         
         // System.out.println("Reverse String: "+ rev);
         System.out.println("Reverse String: "+ sb);
+        sc.close();
     }
 }
 

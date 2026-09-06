@@ -12,5 +12,6 @@ class CountDigit{
             }
         }
         System.out.println("Digit in string: "+ count);
+        sc.close();
     }
 }
