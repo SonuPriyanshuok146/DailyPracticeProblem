@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DigitNum",
+      "request": "launch",
+      "mainClass": "DigitNum",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "EvenSum",
       "request": "launch",
       "mainClass": "EvenSum",
