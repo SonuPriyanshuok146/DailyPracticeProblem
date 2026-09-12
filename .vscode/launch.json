@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxElement",
+      "request": "launch",
+      "mainClass": "MaxElement",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "CountEvenOdd",
       "request": "launch",
       "mainClass": "CountEvenOdd",
