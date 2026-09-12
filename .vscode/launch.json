@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SecMaxElement",
+      "request": "launch",
+      "mainClass": "SecMaxElement",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "MaxElement",
       "request": "launch",
       "mainClass": "MaxElement",
