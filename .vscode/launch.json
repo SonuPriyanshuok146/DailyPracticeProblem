@@ -2,6 +2,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SumIn2DArray",
+      "request": "launch",
+      "mainClass": "SumIn2DArray",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "twoArrayUserInput",
+      "request": "launch",
+      "mainClass": "twoArrayUserInput",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "FirstLastIdx",
+      "request": "launch",
+      "mainClass": "FirstLastIdx",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "SearchElement",
+      "request": "launch",
+      "mainClass": "SearchElement",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "SecMaxElement",
       "request": "launch",
       "mainClass": "SecMaxElement",
