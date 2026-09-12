@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SumRowWise",
+      "request": "launch",
+      "mainClass": "SumRowWise",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "SumIn2DArray",
       "request": "launch",
       "mainClass": "SumIn2DArray",
