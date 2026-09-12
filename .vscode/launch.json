@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountEvenOdd",
+      "request": "launch",
+      "mainClass": "CountEvenOdd",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "SumArray",
+      "request": "launch",
+      "mainClass": "SumArray",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "ArrayInput",
+      "request": "launch",
+      "mainClass": "ArrayInput",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "Fibonacci",
       "request": "launch",
       "mainClass": "Fibonacci",
