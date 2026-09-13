@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CallByValue",
+      "request": "launch",
+      "mainClass": "CallByValue",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "factorialfun",
       "request": "launch",
       "mainClass": "factorialfun",
