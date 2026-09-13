@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "VowelInString",
+      "request": "launch",
+      "mainClass": "VowelInString",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "Threedot",
       "request": "launch",
       "mainClass": "Threedot",
