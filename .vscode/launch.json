@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "factorialfun",
+      "request": "launch",
+      "mainClass": "factorialfun",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "greeting",
       "request": "launch",
       "mainClass": "greeting",
