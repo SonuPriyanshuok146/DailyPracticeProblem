@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "greeting",
+      "request": "launch",
+      "mainClass": "greeting",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "DiagonalElement",
       "request": "launch",
       "mainClass": "DiagonalElement",
