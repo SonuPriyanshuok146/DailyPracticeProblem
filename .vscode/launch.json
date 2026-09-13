@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RevString",
+      "request": "launch",
+      "mainClass": "Recursion.RevString",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "CountnumDigit",
       "request": "launch",
       "mainClass": "Recursion.CountnumDigit",
