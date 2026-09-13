@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "print1ton",
+      "request": "launch",
+      "mainClass": "Recursion.print1ton",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "SortedorNot",
       "request": "launch",
       "mainClass": "SortedorNot",
