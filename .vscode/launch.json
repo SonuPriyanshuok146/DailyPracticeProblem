@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ObjectUse",
+      "request": "launch",
+      "mainClass": "Oops.ObjectUse",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "RevString",
       "request": "launch",
       "mainClass": "Recursion.RevString",
