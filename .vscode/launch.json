@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Oops.Calculator",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "ObjectUse",
       "request": "launch",
       "mainClass": "Oops.ObjectUse",
