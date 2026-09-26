@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "C1",
+      "request": "launch",
+      "mainClass": "customer.C1",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Oops.Test",
+      "projectName": "CodeForces_a54920d2"
+    },
+    {
+      "type": "java",
       "name": "Calculator",
       "request": "launch",
       "mainClass": "Oops.Calculator",
